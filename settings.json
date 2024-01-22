@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "random": "cpp",
+        "xutility": "cpp",
+        "vector": "cpp",
+        "core": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
